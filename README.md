@@ -1,18 +1,18 @@
 This project included:
 
-  Finding a data set of interest.
+  * Finding a data set of interest.
   
-  Creating a practical machine learning problem.
+  * Creating a practical machine learning problem.
   
-  Explaining the dataset.
+  * Explaining the dataset.
   
-  Initial data exploration.
+  * Initial data exploration.
   
-  Data cleaning.
+  * Data cleaning.
   
-  Data exploration including final plots.
+  * Data exploration including final plots.
   
-  Creating machine learning algorithms.
+  * Creating machine learning algorithms.
   
-  Conclusions.
+  * Conclusions on findings.
   
